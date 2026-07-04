@@ -1,9 +1,3 @@
-Got it — you want a **proper, structured README.md with real formatting hierarchy + suggested UI text sizes (so your XML matches the design intent)**. No fluff, just production-style clarity ✈️📱
-
-Here’s your **clean, Skyscanner-level README with typography + structure specs included**.
-
----
-
 # ✈️ Flight Info UI App (Backpack Android)
 
 A simple Android UI application built using **Kotlin** and **Skyscanner Backpack Design System**, showcasing structured flight information using card-based UI components.
@@ -181,37 +175,3 @@ implementation 'net.skyscanner.backpack:backpack-android:43.0.0'
 * Understood typography hierarchy (Heading1, Heading3, Body)
 * Practiced ConstraintLayout positioning
 * Created reusable UI card patterns
-
----
-
-# 📈 FUTURE IMPROVEMENTS
-
-* Live flight API integration ✈️
-* Search flight feature 🔍
-* Multi-screen navigation 📱
-* Animations & transitions 🎬
-* Dark mode support 🌙
-
----
-
-# ⚡ IMPORTANT (WHAT MAKES YOUR PROJECT LOOK PRO)
-
-If you follow this exactly, your UI will look “internship-level”:
-
-### Typography Rule:
-
-* BIGGEST → Flight number (Heading1)
-* MEDIUM → Section titles (Heading3)
-* SMALL → Times/details (Body)
-
-### Layout Rule:
-
-* Always group inside `LinearLayout` for cards
-* Never scatter `BpkText` randomly in ConstraintLayout
-
----
-
-If you want next upgrade, I can:
-🔥 Give you the **exact XML layout code matching this README**
-🔥 Or help you make it look like a **Skyscanner clone UI (real app-level design)**
-🔥 Or add **screenshots + GitHub README banner (insane polish)**
